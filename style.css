@@ -1,0 +1,119 @@
+body {
+  background-color: #eafbea;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 6%;
+  border-color: #192965;
+  border-width: 8px;
+}
+
+h1 {
+  text-align: center;
+  color: #801336;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 45px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+
+}
+
+h2 {
+  text-align: center;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 30px;
+  letter-spacing: 2px;
+  word-spacing: 2px;
+  color: #801336;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  opacity: 0.7;
+}
+
+h3 {
+  font-size: 35px;
+  color: #36b5b0;
+}
+
+.container {
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.top-wrapper {
+  padding-top: 180px;
+  padding-bottom: 100px;
+  color: white;
+  background-image: url(http://seanhalpin.io/assets/img/content/home/masthead/land.svg);
+  background-size: cover;
+  text-align: center;
+}
+
+
+.btn {
+  color: #2c7873;
+  display: inline-block;
+  padding: 12px 24px;
+  opacity: 0.8;
+  border-radius: 4px;
+
+}
+
+.about {
+  background-color: #ffbbb4;
+}
+
+.work {
+  background-color: #ffbbb4;
+}
+
+.notes {
+  background-color: #ffbbb4;
+  margin-right: 10px;
+}
+.btn:hover {
+  opacity: 2;
+}
+.btn:hover {
+  opacity: 1;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+
+.message {
+  background-color: #ffad87;
+  padding: 15px 40px;
+
+  cursor: pointer;
+font-size: 15px;
+  box-shadow: 0 7px #fa877f
+  ;
+}
+h4 {
+  font-size: 20px;
+}
