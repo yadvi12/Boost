@@ -57,6 +57,7 @@ h3 {
   padding-bottom: 100px;
   color: white;
   background-image: url(http://seanhalpin.io/assets/img/content/home/masthead/land.svg);
+  background-position: center;
   background-size: cover;
   text-align: center;
 }
@@ -84,7 +85,7 @@ h3 {
   margin-right: 10px;
 }
 .start{
-background-color: #ffbbb4;  
+background-color: #ffbbb4;
 }
 .btn:hover {
   opacity: 2;
